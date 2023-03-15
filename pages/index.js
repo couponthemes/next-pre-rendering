@@ -10,9 +10,6 @@ function Home() {
       <button>
         <Link href={"/posts"}>Posts</Link>
       </button>
-      <button>
-        <Link href={"/products"}>Products</Link>
-      </button>
     </>
   );
 }
