@@ -1,0 +1,132 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Event 1",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "sports",
+      "date": "April 5"
+    },
+    {
+      "id": 2,
+      "title": "Event 2",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "technology",
+      "date": "Jan 22"
+    },
+    {
+      "id": 3,
+      "title": "Event 3",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "sports",
+      "date": "May 25"
+    },
+    {
+      "id": 4,
+      "title": "Event 4",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "tech",
+      "date": "March 21"
+    },
+    {
+      "id": 5,
+      "title": "Event 5",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "food",
+      "date": "June 6"
+    },
+    {
+      "id": 6,
+      "title": "Event 6",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "sports",
+      "date": "March 5"
+    },
+    {
+      "id": 7,
+      "title": "Event 7",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "tech",
+      "date": "March 30"
+    },
+    {
+      "id": 8,
+      "title": "Event 8",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "food",
+      "date": "April 15"
+    },
+    {
+      "id": 9,
+      "title": "Event 9",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "tech",
+      "date": "February 14"
+    },
+    {
+      "id": 10,
+      "title": "Event 10",
+      "description": "Lorem Ipsum Dolor Sumit Lorem labore cupidatat fugiat nulla voluptate eiusmod do",
+      "category": "sports",
+      "date": "July 15"
+    }
+  ],
+  "dashboard": {
+    "posts": 6,
+    "likes": 150,
+    "followers": 20,
+    "following": 50
+  },
+  "news": [
+    {
+      "id": 1,
+      "title": "News Article 1",
+      "category": "business",
+      "description": "Lorem Ipsum Dolor Sumit"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "category": "business",
+      "description": "Lorem Ipsum Dolor Sumit"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "category": "economy",
+      "description": "Lorem Ipsum Dolor Sumit"
+    },
+    {
+      "id": 4,
+      "title": "News Article 4",
+      "category": "economy",
+      "description": "Lorem Ipsum Dolor Sumit"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 1400,
+      "description": "Lorem Ipsum Dolor Sumit"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 2900,
+      "description": "Lorem Ipsum Dolor Sumit"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 6000,
+      "description": "Lorem Ipsum Dolor Sumit"
+    },
+    {
+      "id": 4,
+      "title": "Product 4",
+      "price": 390,
+      "description": "Lorem Ipsum Dolor Sumit"
+    }
+  ]
+}
