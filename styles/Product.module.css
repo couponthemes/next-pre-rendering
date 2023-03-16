@@ -1,0 +1,28 @@
+.btn {
+  margin-bottom: 30px;
+}
+.product {
+  border: 1px solid #e1e1e1;
+  max-width: 340px;
+  margin: auto;
+  border-radius: 15px;
+  padding: 10px;
+  background-color: #e1e1e1;
+}
+
+.product h3 {
+  margin-bottom: 10px;
+}
+.productImgContainer {
+  position: relative;
+  max-width: 320px;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.productImg {
+  width: 100%;
+  height: auto;
+  margin-bottom: -4px;
+  border-radius: 10px;
+}
